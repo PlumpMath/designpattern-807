@@ -1,0 +1,3 @@
+include ':action:action-pattern'
+include ':creation:creation-pattern'
+include ':structure:structure-pattern'
